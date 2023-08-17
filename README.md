@@ -1,16 +1,22 @@
-# E-commerce website using PHP and Angular
+# E-commerce Single-Vendor Website
 
-This is an E-commerce single vendor website where I used Angular and Bootstrap 4 for Frontend, PHP and PHP API for Backend and MySQL for Database. 
+This is a single-vendor E-commerce website developed using Angular and Bootstrap 4 for the frontend, PHP and PHP APIs for the backend, and MySQL for the database.
 
+## Project Details:
 
-I have made this project during a Skill Development and Internship Programme on PHP and Angular from Euphoria Genx with Technical Collaboration of T-Web Exponent Services.
+This project was undertaken as part of a Skill Development and Internship Programme focused on PHP and Angular, in collaboration with Euphoria Genx and T-Web Exponent Services.
 
-• Frontend: Angular, Bootstrap 4
+- **Collaboration**: Developed in collaboration with T-Web Exponent Services.
+- **Type**: Group project for an Electronics Single-Vendor Website.
 
-• Backend: PHP and PHP API 
+## Technologies Used:
 
-• Database: MySQL
+- **Frontend**: Angular, Bootstrap 4
+- **Backend**: PHP, PHP APIs
+- **Database**: MySQL
 
+## Author:
 
-## License
-[Adhiraj](https://github.com/adhirajcs)
+[Adhiraj's GitHub](https://github.com/adhirajcs)
+
+For any inquiries or assistance, please feel free to contact me.
