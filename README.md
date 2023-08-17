@@ -5,6 +5,10 @@ This is an E-commerce single vendor website where I used Angular and Bootstrap 4
 
 I have made this project during a Skill Development and Internship Programme on PHP and Angular from Euphoria Genx with Technical Collaboration of T-Web Exponent Services.
 
+• Frontend: Angular, Bootstrap 4
+• Backend: PHP and PHP API 
+• Database: MySQL
+
 
 ## License
 [Adhiraj](https://github.com/adhirajcs)
